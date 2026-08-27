@@ -84,6 +84,8 @@ Tipo de retorno:
 
 int — o tamanho da string em bytes
 
+### **entreguei com atraso pois estava ajudando a Fabiana (sou representante)**
+
 
 
 
